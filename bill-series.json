@@ -1,12 +1,42 @@
 [
   {
-    "id": "bcb-10-b-01",
+    "id": "bcb-10-b-stolen",
     "series": "B",
     "denomination": 10,
     "startNumber": 34000001,
     "endNumber": 35000000,
     "status": "CANCELLED",
-    "reason": "Reportado por el BCB - Robo de caudales",
+    "reason": "Serie B robada - Sin valor legal (BCB)",
+    "updatedAt": "2026-03-04T00:00:00Z"
+  },
+  {
+    "id": "bcb-20-b-stolen",
+    "series": "B",
+    "denomination": 20,
+    "startNumber": 12000001,
+    "endNumber": 13000000,
+    "status": "CANCELLED",
+    "reason": "Serie B invalidada por robo (BCB)",
+    "updatedAt": "2026-03-04T00:00:00Z"
+  },
+  {
+    "id": "bcb-50-b-stolen",
+    "series": "B",
+    "denomination": 50,
+    "startNumber": 15000001,
+    "endNumber": 16000000,
+    "status": "CANCELLED",
+    "reason": "Serie B reportada - No aceptar (BCB)",
+    "updatedAt": "2026-03-04T00:00:00Z"
+  },
+  {
+    "id": "bcb-100-b-stolen",
+    "series": "B",
+    "denomination": 100,
+    "startNumber": 22000001,
+    "endNumber": 23000000,
+    "status": "CANCELLED",
+    "reason": "Billete Serie B sin validez - Robo (BCB)",
     "updatedAt": "2026-03-04T00:00:00Z"
   }
 ]
