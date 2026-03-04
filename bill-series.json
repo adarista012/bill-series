@@ -8,15 +8,7 @@
 
   { "id": "bcb-20-b-r1", "series": "B", "denomination": 20, "startNumber": 87280145, "endNumber": 91646549, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
   { "id": "bcb-20-b-r2", "series": "B", "denomination": 20, "startNumber": 96650001, "endNumber": 97100000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r3", "series": "B", "denomination": 20, "startNumber": 99800001, "endNumber": 100700000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r4", "series": "B", "denomination": 20, "startNumber": 109250001, "endNumber": 109700000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r5", "series": "B", "denomination": 20, "startNumber": 110600001, "endNumber": 111500000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r6", "series": "B", "denomination": 20, "startNumber": 111950001, "endNumber": 113300000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r7", "series": "B", "denomination": 20, "startNumber": 114200001, "endNumber": 114650000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r8", "series": "B", "denomination": 20, "startNumber": 114650001, "endNumber": 115100000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r9", "series": "B", "denomination": 20, "startNumber": 115100001, "endNumber": 115550000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r10", "series": "B", "denomination": 20, "startNumber": 118700001, "endNumber": 119600000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
-  { "id": "bcb-20-b-r11", "series": "B", "denomination": 20, "startNumber": 120500001, "endNumber": 120950000, "status": "CANCELLED", "reason": "Serie B invalidada por robo (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
+
   
 
   { "id": "bcb-50-b-r1", "series": "B", "denomination": 50, "startNumber": 77100001, "endNumber": 77550000, "status": "CANCELLED", "reason": "Serie B reportada - No aceptar (BCB)", "updatedAt": "2026-03-04T00:00:00Z" },
